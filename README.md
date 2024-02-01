@@ -2,4 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hajden)
 
-### [👑 Discord 👑](https://discord.gg/GDwFHvzhXM) ###
+### Projects
+## ➣ [👑 HnL Scripts 👑](https://discord.gg/jFvcCEWb6w) ##
+
+## ➣ [👑 Owníme 👑](https://discord.gg/GDwFHvzhXM) ##
