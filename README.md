@@ -2,4 +2,4 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hajden)
 
-### [🐂 Discord 🐂](https://discord.io/overextended) ###
+### [👑 Discord 👑](https://discord.gg/GDwFHvzhXM) ###
