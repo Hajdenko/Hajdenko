@@ -4,5 +4,3 @@
 
 ### Projects
 ## ➣ [👑 HnL Scripts 👑](https://discord.gg/jFvcCEWb6w) ##
-
-## ➣ [👑 Owníme 👑](https://discord.gg/GDwFHvzhXM) ##
