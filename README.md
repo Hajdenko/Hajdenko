@@ -4,3 +4,7 @@
 
 ### Projects
 ## ➣ [👑 HnL Scripts 👑](https://discord.gg/jFvcCEWb6w) ##
+
+## My Discord
+
+## ➣ [Click to Add Me!](https://discord.gg/GWXgU3Ym)
