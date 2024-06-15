@@ -5,7 +5,7 @@
 </div>
 
 <hr />
-<div align="center">
+<div align="left">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&duration=3000&pause=1000&color=ECAF64&repeat=false&random=false&width=435&lines=These+are+my+github+statistics.)](https://git.io/typing-svg)
   
