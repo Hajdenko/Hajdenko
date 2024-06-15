@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="left">
+<div align="bottom">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&duration=3000&pause=1000&color=ECAF64&random=false&width=435&lines=These+are+my+github+statistics.)](https://git.io/typing-svg)
   
