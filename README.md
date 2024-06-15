@@ -4,13 +4,11 @@
 
 </div>
 
-<hr />
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&duration=3000&pause=1000&color=ECAF64&repeat=false&random=false&width=435&lines=These+are+my+github+statistics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&duration=3000&pause=1000&color=ECAF64&random=false&width=435&lines=These+are+my+github+statistics.)](https://git.io/typing-svg)
   
 </div>
-<hr />
 
 ![Hajdenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hajdenko&theme=dark&show_icons=true)
 
