@@ -17,7 +17,10 @@
 <hr />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=20&weight=600&duration=3000&pause=10000&color=FF5E5B&random=false&width=275&lines=Support+me+on+ko-fi!+%F0%9F%91%89%F0%9F%91%88)](https://git.io/typing-svg) 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hajden)
+
+<hr />
 
 ### Info
 I don't do FiveM anymore.
