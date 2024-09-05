@@ -1,3 +1,9 @@
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Hajdenkoo&fontSize=70&color=0:ecaf64,100:b678c4&stroke=000000&strokeWidth=2&desc=Welcome%20to%20my%20github%20page.&fontAlignY=45&descAlignY=70&fontColor=ffffffaa)
+
+</div>
+
 # 💫 About Me:
 I'm a Full-Stack Web & Game developer who likes to watch some anime in his free time.
 
