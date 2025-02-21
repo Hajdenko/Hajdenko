@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-I'm a Full-Stack Web & Game developer who likes to watch some anime in his free time.
+I'm a Full-Stack Web & Game developer who likes to watch some anime in his free time. Currently specializing in the FiveM community.
 [![](https://visitcount.itsvg.in/api?id=Hajdenko&icon=3&color=6)](https://visitcount.itsvg.in)
 
 
